@@ -1,6 +1,6 @@
 # Personal Project About Me Page
 
-This is a personal project inspired by a project I did in the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
+This is a personal project inspired by a project I did in the Software Engineering program at TripleTen. It was created using HTML and CSS.
 
 ## Project features
 
